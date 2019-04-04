@@ -19,4 +19,6 @@ To get started with the challenge open up app.js inside src/components/app.js �
 
 🥁🎷🎹🎶🥁🎷🎹🎶🥁🎷🎹🎶🥁🎷🎹🎶🥁🎷🎹🎶🥁🎷🎹🎶
 
+init
+
 
