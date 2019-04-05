@@ -47,8 +47,10 @@ class App extends Component {
     this.playSound = this.playSound.bind(this);
   }
 
-  playSound(eventObj) {
+  playSound = (eventObj) => {
     //code to be run when click event is fired goes below this line!
+    eventObj.preventDefault()
+    
 
   }
 
